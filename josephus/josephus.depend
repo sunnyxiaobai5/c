@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1350835739 source:e:\xuexi\microsoft visual studio\myprojects\josephus\main.cpp
+	<stdio.h>
+	<malloc.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1350743505 source:e:\xuexi\microsoft visual studio\myprojects\注意算出循环次数\main.c
+	<stdio.h>
+	<stdlib.h>
+

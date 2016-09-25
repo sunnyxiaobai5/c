@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 输入n个数并找出最大最小数 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINN~1\LOCALS~1\Temp\RSP299.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/输入n个数并找出最大最小数.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"E:\XUEXI\Microsoft Visual Studio\MyProjects\输入n个数并找出最大最小数\输入n个数并找出最大最小数.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINN~1\LOCALS~1\Temp\RSP299.tmp" 
+<h3>Output Window</h3>
+Compiling...
+输入n个数并找出最大最小数.c
+E:\XUEXI\Microsoft Visual Studio\MyProjects\输入n个数并找出最大最小数\输入n个数并找出最大最小数.c(17) : warning C4020: 'out' : too many actual parameters
+E:\XUEXI\Microsoft Visual Studio\MyProjects\输入n个数并找出最大最小数\输入n个数并找出最大最小数.c(12) : warning C4101: 'p' : unreferenced local variable
+E:\XUEXI\Microsoft Visual Studio\MyProjects\输入n个数并找出最大最小数\输入n个数并找出最大最小数.c(53) : warning C4029: declared formal parameter list different from definition
+
+
+
+<h3>Results</h3>
+输入n个数并找出最大最小数.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
